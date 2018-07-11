@@ -2,6 +2,9 @@
 
 ##### Note: The purpose of this repo is collecting some nice front-end (not limited to FE) resources I have found. Hope this helpful, peace.
 
+### HTML
+[SVG presentation](https://nelilly.github.io/svg-info/getting-started/#0): A simple presentation page to show svg concepts;
+
 ### CSS
 [CSS Layout](http://learnlayout.com/): Great tutorial to kick off to learn CSS layout.
 
