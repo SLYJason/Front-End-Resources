@@ -21,6 +21,7 @@
 
 ### RxJS
 [LearnRxjs](https://www.learnrxjs.io/): Great Gitbook with simple exampels to show how the rxjs api works. Better than official api doc.
+[ReactiveHow](http://reactive.how/): Visiualization tools to understand how rxjs operators works.
 
 ### JSON
 [JSONPlaceholder](https://jsonplaceholder.typicode.com/): Fake online REST API for Testing and Prototyping. Great tools to get fake json data.
