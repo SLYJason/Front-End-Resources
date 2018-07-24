@@ -37,3 +37,5 @@ Swagger UI. API development
 
 ### Other
 [YAML-JS parser](http://nodeca.github.io/js-yaml/): Online yaml js parser.
+
+[Online Development Docs](https://devdocs.io/): Amazing online documentation for developers, including mutiple languages and frameworks. 
