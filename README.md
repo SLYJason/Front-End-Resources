@@ -26,6 +26,8 @@
 ### JSON
 [JSONPlaceholder](https://jsonplaceholder.typicode.com/): Fake online REST API for Testing and Prototyping. Great tools to get fake json data.
 
+[myJSON](https://api.myjson.com/bins/sz7kw): Create customzied JSON file that could be served for your app.
+
 ### Online IDE
 [stackblitz](https://stackblitz.com/): Online VScode for Angular & React app
 
