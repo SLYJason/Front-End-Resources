@@ -41,3 +41,5 @@ Swagger UI. API development
 [YAML-JS parser](http://nodeca.github.io/js-yaml/): Online yaml js parser.
 
 [Online Development Docs](https://devdocs.io/): Amazing online documentation for developers, including mutiple languages and frameworks. 
+
+[Semantic Versioning](https://semver.org/): How to better versioning control.
